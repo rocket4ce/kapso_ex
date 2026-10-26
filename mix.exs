@@ -2,7 +2,7 @@ defmodule KapsoEx.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://github.com/rocket4ce/kaspo_ex"
+  @source_url "https://github.com/rocket4ce/kapso_ex"
 
   def project do
     [
